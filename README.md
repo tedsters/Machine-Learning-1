@@ -1,2 +1,2 @@
 # machine-learning-1
-machine learning projects
+machine learning projects. Pre processing, visulaizating, feature selection, model building.
